@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: chartreuse;
+    height: 900px;
+}
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+button {
+    width: 75px;
+    height: 75px;
+    font-size: 70px;
+}
+
+input {
+    width: 300px;
+    height: 70px;
+    font-size: 75px;
+    text-align: center;
+    outline: none;
+}
